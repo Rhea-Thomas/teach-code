@@ -38,7 +38,7 @@ learning/
 Clone this repo and link it into your skills folder:
 
 ```bash
-git clone <this repo> ~/code/teach-code
+git clone https://github.com/Rhea-Thomas/teach-code.git ~/code/teach-code
 ln -s ~/code/teach-code ~/.claude/skills/teach-code
 ```
 
